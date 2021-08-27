@@ -1,1 +1,4 @@
-# YessicaCh
+# Skill
+* C++
+* Python
+* MongoDB
